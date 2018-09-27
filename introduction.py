@@ -8,6 +8,7 @@ def intro():
     pass
 
 def helloDetective():
+    pass
     
     
 
